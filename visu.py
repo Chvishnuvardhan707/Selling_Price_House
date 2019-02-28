@@ -1,3 +1,3 @@
 print("fasak")
-print("ehiope")
-print("hasasai")
+print("ehe")
+print("hiaasasasa")
